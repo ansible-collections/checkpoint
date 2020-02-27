@@ -1,0 +1,10 @@
+---
+authors:
+  - Ansible Network Community (ansible-network)
+dependencies:
+  "ansible.netcommon": "*"
+license_file: LICENSE
+name: checkpoint
+namespace: checkpoint
+readme: README.rst
+repository: https://github.com/ansible-collections/checkpoint
