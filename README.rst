@@ -1,6 +1,7 @@
 checkpoint.checkpoint
 =====================
 
-An Ansible collection for Check Point management devices is archived.
+All of checkpoint collection and contents are moved, below are the link for Check Point galaxy and Github repo:
 
-As all of the content around Check Point management is moved to following GitHub repo: https://github.com/CheckPointSW/CheckPointAnsibleMgmtCollection
+- Check Point Github repo -> https://github.com/CheckPointSW/CheckPointAnsibleMgmtCollection
+- Check Point Galaxy repo -> https://galaxy.ansible.com/check_point/mgmt
